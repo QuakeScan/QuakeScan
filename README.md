@@ -2,9 +2,9 @@
 
 
 
-Este es un repositorio del grupo de estudio de Saturday AI
-*Repositorio creado para almacenar todos los desarrollos de proyecto QuakeScan
-*El grupo está conformado por:
+Este es un repositorio del grupo de estudio de Saturday AI  
+Repositorio creado para almacenar todos los desarrollos de proyecto QuakeScan  
+El grupo está conformado por:
 
 * Laura Arroyo Domínguez
 * Marina García Ondoño
